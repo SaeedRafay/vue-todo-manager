@@ -1,24 +1,23 @@
-# vue-todo-manager
+# To-Do Manager App
 
-## Project setup
+A basic to-do app built using Vue.js as frontend and VueX as state management
+
+## Setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Run VueJS development server
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compile for production
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Inspired by: [VueX Crash Course](https://www.youtube.com/watch?v=5lVQgZzLMHc)
